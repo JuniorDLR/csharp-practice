@@ -12,3 +12,4 @@ C:\Users\junio\PracticaC#\obj\Debug\net9.0\refint\PracticaC#.dll
 C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.pdb
 C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.genruntimeconfig.cache
 C:\Users\junio\PracticaC#\obj\Debug\net9.0\ref\PracticaC#.dll
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.sourcelink.json

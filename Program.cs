@@ -8,6 +8,6 @@ public class Practica
 {
     public static void Main()
     {
-        Actividad5.Ejercicios();
+        Actividad7.Municipales();
     }
 }
