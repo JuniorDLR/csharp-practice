@@ -1,0 +1,14 @@
+C:\Users\junio\PracticaC#\bin\Debug\net9.0\PracticaC#.exe
+C:\Users\junio\PracticaC#\bin\Debug\net9.0\PracticaC#.deps.json
+C:\Users\junio\PracticaC#\bin\Debug\net9.0\PracticaC#.runtimeconfig.json
+C:\Users\junio\PracticaC#\bin\Debug\net9.0\PracticaC#.dll
+C:\Users\junio\PracticaC#\bin\Debug\net9.0\PracticaC#.pdb
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.AssemblyInfoInputs.cache
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.AssemblyInfo.cs
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.csproj.CoreCompileInputs.cache
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.dll
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\refint\PracticaC#.dll
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.pdb
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\PracticaC#.genruntimeconfig.cache
+C:\Users\junio\PracticaC#\obj\Debug\net9.0\ref\PracticaC#.dll
