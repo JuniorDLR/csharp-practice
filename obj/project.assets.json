@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\PracticaC#\\PracticaC#.csproj",
-      "projectName": "PracticaC#",
-      "projectPath": "C:\\Users\\junio\\PracticaC#\\PracticaC#.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\PracticaC#\\Practica.csproj",
+      "projectName": "Practica",
+      "projectPath": "C:\\Users\\junio\\PracticaC#\\Practica.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\junio\\PracticaC#\\obj\\",
       "projectStyle": "PackageReference",
