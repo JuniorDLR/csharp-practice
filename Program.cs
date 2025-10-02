@@ -5,6 +5,7 @@
 namespace Clase;
 
 
+
 public class Practica
 {
     public static void Main()
@@ -17,6 +18,9 @@ public class Practica
         //ProgramGastos.Gastos();
         //ProgramFacturacion.Facturacion();
         //ProgramFeria.Feria();
-        ProgramFerreteria.Ferreteria();
+        //ProgramFerreteria.Ferreteria();
+        //Modularidad.IMC();
+        //Memoria.Practica();
+        Arreglos.Practica();
     }
 }
