@@ -1,4 +1,5 @@
 ﻿using System;
+using Lista;
 
 //dotnet new console -> Crear un proyecto
 //dotnet run -> Ejecutar el programa
@@ -21,6 +22,13 @@ public class Practica
         //ProgramFerreteria.Ferreteria();
         //Modularidad.IMC();
         //Memoria.Practica();
-        Arreglos.Practica();
+        //Arreglos.Practica();
+        //RepasoArreglosUnidimensionales.Practica();
+        //Bidimencionales.Practica();
+        //ArreglosBii.Practica();
+        //BancoUniversitario.Program.Practica();
+        //Examen2.Practica();
+        ArbolMain.ArbolPractica();
+        
     }
 }
